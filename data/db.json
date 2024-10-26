@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hiih",
+      "datetime": "August 20, 2024 10:28:59 PM",
+      "body": "hihih\n"
+    },
+    {
+      "id": 2,
+      "title": "my page",
+      "datetime": "August 20, 2024 10:29:22 PM",
+      "body": "hi this is new projects"
+    },
+    {
+      "id": 3,
+      "title": "hi",
+      "datetime": "August 20, 2024 10:56:02 PM",
+      "body": "ijij"
+    }
+  ]
+}
